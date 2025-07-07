@@ -1,1 +1,10 @@
-test
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dympy.json
+
+# Pyre type checker
+.pyre/
+.vscode/settings.json
